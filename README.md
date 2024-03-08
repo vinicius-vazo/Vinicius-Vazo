@@ -24,6 +24,7 @@
     <img alig="center" height="50" width="60" alt="css" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg"/>
 </div>
 <div style="display: inline_blok"><br>
-  <img alig="center" height="50" width="60" alt="css" src="https://github.com/devicons/devicon/blob/master/icons/json/json-original.svg"/>
-  <img alig="center" height="50" width="60" alt="css" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg"/>
+    <img alig="center" height="60" width="80" alt="css" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg"/>
+    <img alig="center" height="50" width="60" alt="css" src="https://github.com/devicons/devicon/blob/master/icons/json/json-original.svg"/>
+    <img alig="center" height="50" width="60" alt="css" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg"/>
 </div>
