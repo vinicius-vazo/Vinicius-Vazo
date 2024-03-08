@@ -8,6 +8,10 @@
 #### Contato
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](vinicius.correios@gmail.com)
 
+<a href="https://www.linkedin.com/in/viniciusvazo/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin">
+</a>
+
 ### Tecnologias Conhecidas
 <div style="display: inline_blok"><br>
     <img alig="center" height="50" width="60" alt="css" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"/>
