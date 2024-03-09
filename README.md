@@ -3,7 +3,12 @@
 
 ![Vinicius GitHub stats](https://github-readme-stats.vercel.app/api?username=vinicius-vazo&show_icons=true&theme=dracula)
 #### Contato
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viniciusvazo/)
+<div style="display: inline-block">
+    <a href="https://www.linkedin.com/in/viniciusvazo/" target="_blank">
+        <img align="center" height="50" width="60" alt="LinkedIn" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg"/>
+    </a>
+</div>
+<!-- [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viniciusvazo/) -->
 
 ### Tecnologias Conhecidas
 <div style="display: inline_blok"><br>
